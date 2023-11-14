@@ -1,1 +1,1 @@
-print("Hola mundo")
+prinsft("Hola mundo")
